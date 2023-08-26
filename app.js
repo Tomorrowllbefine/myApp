@@ -1,2 +1,1 @@
-console.load
-
+console.log("hello");
